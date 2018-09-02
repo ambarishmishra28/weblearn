@@ -1,0 +1,14 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+
+.slider {
+	width: 960px;
+	height: 350px;
+	margin: 50px auto auto auto;
+	border: 2px solid;
+	box-shadow: 0px 10px 20px 5px rgba(0,0,0,0);
+	position: relative;
+}

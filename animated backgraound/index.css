@@ -1,0 +1,40 @@
+body{
+	animation: anim 8s infinite;
+
+}
+.data-text{
+	font-family: source sans pro;
+	font-size: 25px;
+	width: 40%;
+	text-align: justify;
+	margin: 150px auto;
+
+
+
+}
+@keyframes anim {
+	0%{
+		background: #902bdf;
+
+	}
+	20%{
+		background: #149fd5;
+		
+	}
+	40%{ background: #1c3c2c;
+		
+	}
+	60%{ background: #5cca31;
+		
+	}
+	80%{
+		background: #0b0366;
+
+		
+	}
+	100%{
+		background: #d1c218;
+		
+	}
+	
+}
